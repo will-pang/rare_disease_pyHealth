@@ -53,4 +53,4 @@ rdma_venv/
 RDMA/zilal_contribution/figs/
 RDMA/zilal_contribution/mimic4_note/
 
-RDMA/notebooks/wp/api_config.json
+*api_config.json
