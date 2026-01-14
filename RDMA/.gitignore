@@ -9,3 +9,7 @@ data/
 *.pyc
 # *.txt
 # *.json
+
+# Ignore csv files
+*.csv
+*.csv.gz
