@@ -54,3 +54,5 @@ RDMA/zilal_contribution/figs/
 RDMA/zilal_contribution/mimic4_note/
 
 *api_config.json
+*.npy
+RDMA/notebooks/wp/EmbeddedDocs.zip
